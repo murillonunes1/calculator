@@ -2,7 +2,6 @@
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-HTML
-CSS
-JavaScript
+HTML, CSS, JavaScript e Integração de API
+
 O projeto está hospedado na plataforma Vercel e pode ser acessado por aqui.
